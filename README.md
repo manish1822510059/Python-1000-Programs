@@ -1,7 +1,7 @@
 ## <h1 align="center"> 💡 Python-1000-Programs 💡 </h1>
-## Basic Progrom Python.
+### Basic Progrom Python.
 link ->  https://github.com/manish1822510059/Python-1000-programs/tree/main/Basic%20Progrom%20python
-## Functions.
+### Functions.
 link ->  https://github.com/manish1822510059/Python-1000-programs/tree/main/Functions
-## List.
+### List.
 link ->  https://github.com/manish1822510059/Python-1000-programs/tree/main/List
