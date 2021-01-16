@@ -7,3 +7,5 @@ link ->  https://github.com/manish1822510059/Python-1000-programs/tree/main/Func
 link ->  https://github.com/manish1822510059/Python-1000-programs/tree/main/List
 ### Mathematical operations.
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Mathematical%20operations
+### Multi-Dimensional list.
+link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Multi-Dimensional%20list
