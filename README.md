@@ -11,3 +11,5 @@ link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Math
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Multi-Dimensional%20list
 ### Patterns.
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Patternt
+### Searching.
+link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Searching
