@@ -17,3 +17,6 @@ link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Sear
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Tuple
 ### Sets.
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Set
+### Dictionaries.
+link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Dictionaries
+
