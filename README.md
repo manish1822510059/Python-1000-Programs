@@ -21,4 +21,6 @@ link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Set
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Dictionaries
 ### Array.
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Array
+### Function-(def).
+link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Function-(def)
 
