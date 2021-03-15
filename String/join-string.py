@@ -1,0 +1,1 @@
+print("---".join(['once','upon','a','time']))
