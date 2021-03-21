@@ -25,7 +25,7 @@ matt = Person()
 
 in_the_forest(donald)
 
-print("---------------------------")
+print("-------------------------")
 in_the_forest(matt)
 
 
