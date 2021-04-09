@@ -27,4 +27,6 @@ link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Arra
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Function-(def)
 ### Lambda-(fun).
 link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Lambda%20Functions
+### Class object.
+link ->  https://github.com/manish1822510059/Python-1000-Programs/tree/main/Lambda%20Functions
 
